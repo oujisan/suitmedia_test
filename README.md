@@ -1,3 +1,3 @@
 # suitmedia_test
 
-A new Flutter project.
+Flutter Project for Suitmedia Mobile App Development Intern Test
